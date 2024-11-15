@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Vite build output
+/dist
+/vite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependency directories
+/.cache
